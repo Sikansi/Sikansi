@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sikansi
 - 👀 I’m interested in learning about different tools and starting my own projects.
-- 🌱 I’m currently working as full stack developer.
 - 💞️ I’m looking to collaborate on small projects wich may help me learn more.
 - 📫 How to reach me: My social email is jsikansi@gmail.com.
 -    For professional purposes this is my linkedin: https://www.linkedin.com/in/jo%C3%A3o-lucas-soares-sikansi-b25991185/
